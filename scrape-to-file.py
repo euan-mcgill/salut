@@ -13,7 +13,7 @@ from one base file and a parallel language equivalent.
 Not yet arranged into functions.
 '''
 
-url = 'https://simple.wikipedia.org/wiki/Category:Pain'
+url = 'https://simple.wikipedia.org/wiki/Category:Health'
 html = urlopen(url)
 soup = BeautifulSoup(html, 'html.parser')
 #%%
@@ -28,8 +28,9 @@ for link in soup.find_all('a'):
     
 #%%
 # with loop to write directly to file?
+# write to a new file each time using glob?
 
-with open('aligned-simple-pain.txt', 'w') as simpout:
+with open('aligned-simple-health.txt', 'w') as simpout:
     for link in simpends: # change to englishends for en wikipedia
         url = link
         html = urlopen(url)
@@ -40,7 +41,7 @@ with open('aligned-simple-pain.txt', 'w') as simpout:
             # print(article)
             simpout.write(article+'\n')
 #%%
-with open('aligned-english-pain.txt', 'w') as engout:
+with open('aligned-english-health.txt', 'w') as engout:
     for link in englishends: # change to simpends for simp wikipedia
         url = link
         try:

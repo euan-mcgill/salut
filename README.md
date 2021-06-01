@@ -1,4 +1,5 @@
 # README
+    Task is to collect health, including COVID-19-specific, data 
 
 ## Scraping Wikipedia
     Originally basing web scrape from https://simple.wikipedia.org/wiki/Coronavirus_disease_2019 - but yields a lot of duplicate and mismatched pages between EN and Simplified
