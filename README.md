@@ -10,3 +10,13 @@
     `multiscrape.py` Base URL is a simple English Wikipedia article. Gathers all URLs within the article body, then adds article URL suffixes to both. Follow with `> outputfile.txt` to write the console-printed output to a file.
     `messyscrape.py` As above, but automatically writes to file.
     `wikisc.py` (WIP) Arranged into functions, should handle input of a base article or categories with flags to that effect.
+
+## Corpus files
+| Domain   | Type | Simple | English |
+|----------|------|--------|---------|
+| Covid    | AL   |        | 209     |
+| Health   | AL   |        | 258     |
+| Stubs    | AL   |        | 785     |
+| Medicine | AL   |        |         |
+| Pain     | AL   |        |         |
+| Symptoms | AL   |        |         |
