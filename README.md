@@ -12,11 +12,14 @@
     `wikisc.py` (WIP) Arranged into functions, should handle input of a base article or categories with flags to that effect.
 
 ## Corpus files
-| Domain   | Type | Simple | English |
-|----------|------|--------|---------|
+| Domain   | Type | Simple-words | English-words |
+|----------|------|--------------|---------------|
 | Covid    | AL   |        | 209     |
 | Health   | AL   |        | 258     |
 | Stubs    | AL   |        | 785     |
 | Medicine | AL   |        |         |
 | Pain     | AL   |        |         |
 | Symptoms | AL   |        |         |
+
+## Corpora
+    `parallel-[labelled-]corpus-health.tsv`

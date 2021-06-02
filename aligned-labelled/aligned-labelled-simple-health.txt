@@ -1,276 +1,284 @@
-https://simple.wikipedia.org/wiki/Health
-Health is "a state of complete physical, mental, and social well-being and not merely the absence of disease " according to the World Health Organization (WHO). [1] [2] Physical [ permanent dead link ] is about the body. Mental is about how people think and feel. Social talks about how people live with other people. It is about family , work, school, and friends. [3]
-Physical fitness refers to good body health. It is dependent on genetic determinators and also on social, economic and ecological factors. That means, one's genes are partly responsible for one's physical health, but also other circumstances: where you live, how clean or polluted your water and the air around you is and also how good your social and medical system is. It is also the result of regular exercise , proper diet and nutrition , and proper rest for physical recovery . A person who is physically fit will be able to walk or run without getting breathless and they will be able to carry out the activities of everyday living and not need help. How much each person can do will depend on their age and whether they are a man or woman. A physically fit person usually has a normal weight for their height. The relation between their height and weight is called their Body Mass Index . A taller person can be heavier and still be fit. If a person is too heavy or too thin for their height it may affect their health. [3] Better health is central to human happiness and well-being. It also makes an important contribution to economic progress, as healthy populations live longer, are more productive, and save more. Many factors influence health status and a country's ability to provide quality health services for its people. [4]
-Mental health refers to a person's emotional and psychological well-being. "A state of emotional and psychological well-being in which an individual is able to use his or her thinking and emotional (feeling) abilities, function in society , and meet the ordinary demands of everyday life."
-One way to think about mental health is by looking at how well a person functions. Feeling capable and efficient ; being able to handle normal levels of stress , have good friends and family, and lead an independent life; and being able to "bounce back," or recover from hardships, are all signs of mental health.It’s normal for all of us to feel worried, sad, upset, or have difficult emotions from time-to-time. For most people though, these feelings are only temporary and are resolved without causing any long-term problems. However, for some people, these negative feelings can become worse over time and lead to a mental health problem such as depression, anxiety, stress or obsessive-compulsive disorder (OCD). [5]
+
+https://simple.wikipedia.org/wiki/Coronavirus_disease_2019
+Coronavirus disease 2019 ( COVID-19 ) is an infectious disease caused by SARS coronavirus 2 (SARS-CoV-2) , [8] a virus closely related to the SARS virus . [9] [10] [11]
+The disease is the cause of the COVID-19 pandemic . [12] [13] Those who get the disease might get a fever , dry cough , fatigue (tiredness) and shortness of breath. A sore throat, runny nose or sneezing is less common. In very bad cases, they can even get a much worse fever, fewer white blood cells , and loss of appetite. They might cough up blood, and have kidney failure .
+People with this disease can get pneumonia and multi-organ failure if they are weak, old, or are already sick. [12] [13] There are people who are called asymptomatic carriers , which means that they did not have all or some of the symptoms of the virus. This is very dangerous since they may not know that they have the virus and can give it to other people without knowing it.
+The countries with the most sick people are the USA, India and Brazil. COVID-19 virus travels from person to person through the air like the common cold does. Scientists think the virus is not able to hang in the air a long time and go far like the measles virus does. [14]
+
+https://simple.wikipedia.org/wiki/Severe_acute_respiratory_syndrome_coronavirus_2
+SARS coronavirus 2 ( SARS-CoV-2 ) is a positive-sense , single-stranded RNA coronavirus which causes the disease COVID-19 . [2] It used to be known as 2019 novel coronavirus (2019-nCoV) by the World Health Organization (WHO). [3] [4]
+The virus started the 2019–20 coronavirus outbreak . [5] [6] [7] The first suspected cases were reported to the WHO on December 31, 2019. [8] [9] Many early cases of this new coronavirus were linked to Huanan Seafood Wholesale Market, a large seafood and animal market in Wuhan , China. The virus may have come from infected animals. It is not certain that this place was the source of the pandemic . [10]
+The genetic material of this virus showed many similarities to SARS-CoV (79.5%) [11] and bat coronaviruses (96%). [11] This means the virus may have originally come from bats . [12] [13] [14] Scientists did more experiments that showed the virus probably went from bats to an intermediate host , meaning another animal in between bats and humans.  The viruses in that other animal changed over time until they could infect humans.  Scientists are close to sure that the original animal was a bat but not sure what the intermediate animal was. [15] Some scientists think it could have been a pangolin because there are coronaviruses that live in pangolins even though they are not exactly the same as SARS-CoV-2 or the ones in bats. [16] Pangolins are an endangered species and buying, selling or moving them from place to place is illegal in China and many other countries.  But their scales are an ingredient in many traditional Chinese medicines , so they are often sold on the black market . [17]
+Although SARS-CoV-2 began in bats, scientists noticed that the bats do not get sick and die from it.  They think this is because the bats have very careful immune systems that fight the virus without causing inflammation .  Scientists are studying bats because of this. [18] [19]
+
+https://simple.wikipedia.org/wiki/2020_stock_market_crash
+The 2020 stock market crash is a global stock market crash that began on 20 February 2020 during the 2019–20 coronavirus pandemic . [1] [2] [3] The Dow Jones Industrial Average , S&P 500 Index , and the NASDAQ-100 all fell into short-term decline on 27 February during one of the worst trading weeks since the financial crisis of 2007–08 . [4] [5]
+Markets over the following week (2–6 March) became extremely bad, with swings of 3% or more being made per daily session (except for 6 March). [6] [7] On 9 March, all three Wall Street indices fell more than 7% and most global markets reported severe losses, due to the response of the 2019–20 coronavirus pandemic and the Russia–Saudi Arabia oil price war . [8] [9]
+This became known as Black Monday , and at the time was the worst drop since the Great Recession in 2008. [10] [11]
+Three days after Black Monday there was another drop, Black Thursday , where stocks across Europe and North America fell more than 9%.
+
+https://simple.wikipedia.org/wiki/501.V2_variant
+The 501Y.V2 variant , also known as South African COVID-19 variant , is a variant of the SARS-CoV-2 , the virus that causes COVID-19 . It is one of several SARS-CoV-2 variants. It was first detected in the Nelson Mandela Bay [1] metropolitan area of the Eastern Cape province of South Africa .
+On 23 December 2020, the United Kingdom health minister Matt Hancock said that two people who had travelled from South Africa to the United Kingdom were infected with the 501.V2. [2] On 28 December, the variant was detected in two people in Switzerland [3] and one in Finland . [4]
+The United States reported its first cases of the variant in the U.S. state of South Carolina . [5]
+
+
 https://simple.wikipedia.org/wiki/Abenomask
 Abenomask is a Japanese political word named after Shinzo Abe . [1] It is used in Japan for two meanings: [2] [3] [4] [5]
 Abenomask-like actions are taken in other regions including Spain [6] and the United States [7] etc.
-https://simple.wikipedia.org/wiki/Accident
-An accident is when something goes wrong when it is not meant to. Physical accidents are things like collisions , injuries , and falling. Non-physical accidents are things like accidentally telling someone a secret, forgetting something important, or deleting an important computer file .
-Road accidents kill thousands of people each month in the United States, and thousands each week in the world. They injure more thousands each week. The majority involve a car but there are also many bus , truck and bicycle accidents. Aircraft crashes, ship sinkings and other transport accidents also attract much attention.
-Injuries from accidents, however, are more numerous at home than elsewhere. They attract less attention because only a few people are hurt at a time.
-Often, accidents are investigated so that we can learn how to avoid them in the future. Sometimes by studying an accident we can discover new things, for example penicillin .
-https://simple.wikipedia.org/wiki/Amniocentesis
-Amniocentesis is the name of a medical test that is often performed when screening babies . The test consist of taking a little Amniotic fluid , and testing this fluid . This fluid contains tissue of the embryo or fetus , and allows to determine the sex . It also allows to find certain birth defects .
 
-https://simple.wikipedia.org/wiki/Amniotic_sac
-The amniotic sac holds a fetus while it is developing during pregnancy .  The amniotic sac is filled with amniotic fluid , which protects the fetus.
-The amniotic sac starts to form and fill with amniotic fluid just days after a woman gets pregnant. [1] At first, the amniotic fluid is made from the mother's plasma (the liquid part of her blood ). [2]
-At first, the amniotic fluid is made mostly of water with electrolytes (salts).  However, by the 12th to the 14th week of pregnancy, proteins , carbohydrates , lipids , phospholipids , and urea are all in the amniotic fluid. [2] These things help the fetus grow.
-As the fetus gets bigger, more amniotic fluid gets created.  By the time the baby is born, there is about one liter of amniotic fluid in the amniotic sac. [3]
-https://simple.wikipedia.org/wiki/Antioxidant
-An antioxidant is a molecule that can slow or stop the oxidation , or electron transfer, of other molecules.
-Antioxidants can be found in food.
-Antioxidants are molecules that relieve oxidative stress by preventing the formation and oxidation of free radicals. [1] Antioxidants donate one of their electrons or hydrogen to free radicals, stopping their chain reaction. [2] Found in our diet (for example, in vitamins) or formed inside our body (like enzymes), antioxidants can protect us from the damaging effects of free radicals. [3]
-The best way to combat free radicals is to have a diet of fresh fruits and vegetables, red wine, and green tea. [2] [4] These functional foods are rich in phytochemicals with antioxidant properties. Health supplements enriched with antioxidants are also now widely available.
-https://simple.wikipedia.org/wiki/Baldness
-Baldness (also known as alopecia ) is when someone has no hair on his or her head . Sometimes this is inherited from parents or grandparents, or it can be done on purpose if somebody cuts off all their hair off. Some monks or South Korean soldiers in the army do this.
-Baldness is most often caused by a medical condition known as androgenic alopecia . This is found in humans , as well as in some animals . When it occurs, it will mean that those affected will permanently lose some (or all) of their hair. Since some of the factors are linked to the genes on the chromosome , the condition can be seen more often with men, than with women.
-Alopecia totalis is the loss of all head hair. Its cause is believed to be autoimmune , but many with the disorder lead relatively low stress lives.
-Alopecia areata (AA) is a condition in which hair is lost from some or all areas of the body, usually from the scalp.[1][2] Because it causes bald spots on the scalp, especially in the first stages, it is sometimes called spot baldness.
-https://simple.wikipedia.org/wiki/Benign_paroxysmal_vertigo_of_childhood
-Benign paroxysmal vertigo of childhood (BPVC for short) is a medical problem that happens in children.  "Benign" means "harmless;" "paroxysmal" means something comes and goes suddenly; and " vertigo " means "dizziness."  So BPVC is harmless dizziness in children that comes and goes suddenly.
-The dizziness usually makes children feel like they are moving or spinning, or that the inside of their head is moving or spinning.
-Usually, BPVC starts in children between two and five years old.  It often goes away by the age of eight.  But in some children, BPVC may start when they are much younger (as young as a few months old) or older (as old as 12 years old).
-BPVC is the most common cause of dizziness in children who do not have hearing loss or a diagnosed ear disease .  It is a common problem that happens to about 2.6% of children (26 out of 1,000 children).
-https://simple.wikipedia.org/wiki/Bite
-A bite is a wound received from the teeth of an animal .  Animals may bite things in self-defence .  Animals also bite things to cut them into smaller pieces before they eat them.
-Bites can cause many medical problems, such as:
-Bite wounds should be washed, ideally with povidone-iodine soap and water.  The injury should then be loosely wrapped with a bandage .  Open bite wounds are not sutured because of the risk of infection.
-Animal bites caused by carnivores (other than rodents ) may infect the victim with rabies if the animal that bit them carries it.  If possible, the animal is caught and the head is looked at for signs of rabies.  Signs of rabies include foaming at the mouth, self-mutilation, growling, jerky behaviour, and red eyes.  If the animal lives for ten days and does not develop rabies, then the animal probably is not infected.  In cases where the animal cannot be found, prophylactic rabies treatment is carried out in most places.
-https://simple.wikipedia.org/wiki/Blood_donation
-Blood donation is when a person voluntarily gives blood, which can be used for blood transfusions or to make certain drugs . Blood banks store this blood. The blood can be used to help the victims of accidents , for example. Usually, the blood donor and the donated blood are tested for diseases which spread through the blood. These include various forms of Hepatitis , HIV and Syphilis . Usually a series of questions also need to be answered to make sure that there is no risk to the person donating.
-A special case of blood donation sometimes occurs before a medical operation that is dangerous. People donate their own blood, which can be used after the operation if they lose too much blood.
-https://simple.wikipedia.org/wiki/Blood_sugar
-Blood sugar is an amount of glucose present in the blood of humans or animals . It is the primary source for energy for body cells and blood lipids. Low blood sugar means hypoglycemia . High blood sugar means hyperglycemia . People with diabetes mellitus have high blood sugar.
-https://simple.wikipedia.org/wiki/Body_modification
-Body modification (or body alteration) is when a person changes their body in a way that lasts forever or for a long time. There are many different kinds of body modification, like piercing , circumcision , or tattoos . Almost all cultures do some kind of body modification.
-People who do not like body modification sometimes call it "disfigurement" or "mutilation." They believe that if someone changes their body, it is wrong and they are doing something dangerous or unethical .
-Body modification is done for different reasons. Religions might tell people that they should change their bodies to look a certain way. Other people with body modifications might just like the way the body modifications look, or how they feel good during sex .
-https://simple.wikipedia.org/wiki/Circumcision
-Circumcision is an operation in which the foreskin is removed. In common speech, someone who has been circumcised is described as cut while someone who is not is described as uncut . For example, one teenaged boy might ask another teenaged boy, "Are you cut?" While this is slang English, it is not considered profanity.
-Circumcision may be done by a doctor using a surgical tool, such as scissors, a plastic tool called a plastibell device, or it may be done with a laser . If the doctor uses a laser there is almost no bleeding. [1]
-Circumcision may be a religious ritual , a custom in certain tribes or countries, or a medical practice.
-Reasons for performing a circumcision:
-https://simple.wikipedia.org/wiki/Cloth_facemask
-A cloth facemask is a face covering which is used to cover the mouth and nose . As the name suggests, these masks are made of textiles . Cotton is commonly used. Starting with the 19th century, such masks have been used by healthcare professionals. They are also used to protect against air pollution , although they may not be very effective in protecting against air pollution. [1] [2] [3]
-Depending on the design, they can be effective stopping the transmission of disease spread by droplets of liquid . Today, healthcare professionals often use surgical masks or respirators , which offer better protection. A study done in 2010 found that 40 to 90 percent of particles pass through a cloth facemask. [4]
-Cloth face masks are commonly used during the COVID-19 pandemic , especially when surgical and other medical face coverings are not available. [5] [6]
-https://simple.wikipedia.org/wiki/Conjoined_twins
-' Conjoined twins are twins whose bodies are joined together at birth. This happens where the zygote of identical twins fails to completely separate. Conjoined twins occur in an estimated one in 200,000 births, and approximately half are stillborn . The overall survival rate for conjoined twins is between 5% and 25%. Conjoined twins are more likely to be female (70-75%). Daisy and Violet Hilton are a famous pair of conjoined twins. They were born in Brighton and were kept on top of the Evening Star pub, where they were taught to dance by a cruel barmaid. She then sold them and they toured Vaudeville. They became famous in the movie Freaks and lived long lives, eventually getting married.
-https://simple.wikipedia.org/wiki/Coprolalia
-Coprolalia is a condition that affects about 15% of people with Tourette syndrome .  Someone with coprolalia will use words that make people feel uncomfortable so often that it is hard to control. This is often in the form of a stream of curse words.
-People who have Tourette syndrome are not the only people who experience coprolalia. For example, it can happen in people who have had a stroke , [1] or who have schizophrenia . [2]
+https://simple.wikipedia.org/wiki/African_Americans_and_COVID-19
+African Americans are more likely to catch COVID-19 compared to their white counterparts. [1] African Americans are also more likely to die from the disease. [2] African Americans are less likely to get vaccinated . [3]
 
-https://simple.wikipedia.org/wiki/Coprophagia
-Coprophagia is the eating of faeces . Many animals eat faeces, either their own or that of other animal groups. It is particularly common in dogs and puppies of about six months old, but little is known why; lack of stimulus and variety in the lifestyle or diet have been cited as potential reasons. Adding pineapple to their food is  a well recognized solution for many dogs. Humans do it only on rare occasions and it is looked down upon in society.  Eating one's feces can also spread disease.
+https://simple.wikipedia.org/wiki/Black_Thursday_(2020)
+Black Thursday [1] was a global stock market crash on March 12, 2020 as part of the greater 2020 stock market crash . Global stock markets suffered the greatest single-day fall since the 1987 stock market crash . [2]
+Following Black Monday three days earlier, Black Thursday was caused by the 2019–20 coronavirus pandemic and a lack of investor confidence in United States President Donald Trump after he added a 30-day travel ban against the Schengen Area . [3]
+
+https://simple.wikipedia.org/wiki/Coronavirus
+Coronaviruses are a group of RNA viruses . [5] [6] They cause diseases in birds and mammals , including humans . These diseases can be mild, or they can be fatal. In humans and birds, they cause respiratory tract infections. Mild illnesses in humans include some cases of the common cold (which is also caused by other viruses, for example rhinoviruses ). More lethal varieties can cause SARS , MERS , and COVID-19 .
+They are enveloped viruses with a positive-sense RNA genome . [7] The genome size of coronaviruses is about 26 to 32 kilobases, [8] which is extraordinarily large for an RNA virus . There are four major groups of coronaviruses, called alpha, beta, gamma and delta.
+The most famous coronavirus is one of the betas, the kind that causes Coronavirus disease 2019 (COVID-19) in humans.
+The name "coronavirus" comes from the Latin word corona , meaning "crown" or "halo", and refers to how virions look under an electron microscopy (E.M.). [9] They have a fringe of large, bulbous surface projections looking like a crown. This morphology is created by the viral spike (S) peplomers , which are proteins on the surface of the virus. They decide which cells the virus can infect.
+
+https://simple.wikipedia.org/wiki/COVAX
+COVID-19 Vaccines Global Access , abbreviated as COVAX , is a global program that helps give COVID-19 vaccines to people living in poor countries led by Gavi, the Vaccine Alliance ,  the World Health Organization (WHO), the Coalition for Epidemic Preparedness Innovations (CEPI), and others. [1]
+By 15 July 2020, 165 countries – representing 60% of the human population – had joined COVAX. [2]
+
+https://simple.wikipedia.org/wiki/COVID-19_Advisory_Board
+The COVID-19 Advisory Board was announced in November 2020 by then President-elect of the United States Joe Biden as part of his presidential transition .
+It is co-chaired by physicians David A. Kessler , Marcella Nunez-Smith , and Vivek Murthy and comprises 13 health experts.
+The goal of the advisory board is to create ideas and rules on how to tackle the COVID-19 pandemic in the United States during Biden's transition period. The board was dissolved when Biden was inaugurated on January 20, 2021 and was replaced with the White House COVID-19 Response Team .
+University of Chicago ( JD )
+
+https://simple.wikipedia.org/wiki/COVID-19_lockdowns
+COVID-19 pandemic caused many governments to limit the spread of the disease by adding stay-at-home orders , curfews , quarantines , cordons sanitaires and similar societal restrictions. [1] By April 2020, about half of the world's population was under some form of lockdown, with more than 3.9 billion people in more than 90 countries or territories having been asked or ordered to stay at home by their governments. [2]
+
+https://simple.wikipedia.org/wiki/COVID-19_pandemic
+The COVID-19 pandemic , also called the coronavirus pandemic , is a current pandemic of coronavirus disease 2019 (COVID-19). It is caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). [1] [6] [b] The outbreak started in Wuhan , Hubei , China, in December 2019. The World Health Organization (WHO) called it a pandemic on 11 March 2020. [7] [8] [9] [10] [11] The International Committee on Taxonomy of Viruses gave the virus its name. As of February 19, 2021, more than 110 million cases of COVID-19 have been reported in more than 188 countries and territories. More than two million people have died of COVID-19, [12] and more than 85 million people have defeated, or recovered from the disease. [12] [13] [14]
+The virus usually moves from one person to another with small drops made when coughing [15] [16] or sneezing . [17] It mostly spreads when people are close to each other, which is why social distancing is encouraged. Coronavirus can also spread when people touch a surface with the virus, and then they touch their face. [16] [17] Common symptoms include fever , cough, and trouble breathing. [18] The illness can worsen with pneumonia and acute respiratory distress syndrome . [19] As of January 2021, a number of vaccines for COVID-19 have been developed, but only a few have been approved as safe for use. The first vaccine to be approved was created by Pfizer and BioNTech , [20] followed by the Oxford / AstraZeneca [21] vaccine. Vaccine distribution has begun in many countries in Europe, North America, South America and Asia. [22] The United Kingdom was the first western country to administer a COVID-19 vaccine. [23] No antiviral medicine for COVID-19 is available. [24] Doctors usually give patients supportive therapy instead. [25] People can avoid spreading the virus by regularly washing their hands, covering their mouth when coughing, maintaining distance from other people , staying away from crowds, wearing medical or cloth face coverings, and being alone for people who think they are infected, also known as quarantining . [24]
+The outbreak might be from a coronavirus that usually lives in bats . This infected another animal, possibly a pangolin . It then changed inside that other animal until it could infect humans. [26] It originated at a wet market Huanan Seafood Wholesale Market and is linked to China’s wild animal meat trade. Live foxes , crocodiles , wolf pups, giant salamanders , snakes , rats , peacocks , porcupines , koalas and game meats were on the menu at the market. [27] A 55-year-old person from Hubei province was the first human to contract the virus on November 17, 2019. [28] A 61-year-old man who was a regular customer at the market was the first person to die from the virus on January 11, 2020. [29] The exact origin of the virus is still unknown since the market in Wuhan sold a variety of live wild animals in cages. Chinese tourists have spread the virus by traveling to other countries and made it a worldwide pandemic. [30]
+Racism and xenophobia against Chinese people and Asians increased during the pandemic.
+
+https://simple.wikipedia.org/wiki/COVID-19_pandemic_in_Africa
+The first case of COVID-19 in Africa was reported in Egypt on February 14, 2020.
+
+https://simple.wikipedia.org/wiki/COVID-19_pandemic_in_Albania
+Deaths by county per 100,000 inhabitants as of 27 August 2020
+The COVID-19 pandemic was confirmed to have reached Albania on 8 March 2020 , a father and son who had travelled from Florence , Italy . [1]
+As of 10 September 2020, there are 10,860 confirmed cases of COVID-19 in Albania . [2]
+After the first case was reported on 8 March, the Ministry of Health and Social Protection stated that a total of 65 people had been tested for COVID-19 , 2 of whom were positive the following day. [3]
+
+https://simple.wikipedia.org/wiki/COVID-19_pandemic_in_Antarctica
+The COVID-19 pandemic in Antarctica is part of the worldwide pandemic of coronavirus disease 2019 ( COVID-19 ) caused by severe acute respiratory syndrome coronavirus 2 ( SARS-CoV-2 ).
+Antarctica was the last continent to have confirmed cases of COVID-19 and was one of the last regions of the world affected by the pandemic. [1] [2] [3]
+The first cases were reported in December 2020, almost a year after the first cases of COVID-19 were seen in China. [4]
+
+https://simple.wikipedia.org/wiki/COVID-19_pandemic_in_Australia
+The COVID-19 pandemic in Australia began on 25 January 2020, in Victoria . A man who had returned from Wuhan , China, tested positive for SARS-CoV-2 . [2]
+The Australian government stopped all non-residents from entering the country on 20 March. [3] Social distancing rules were put in place on 21 March. The state governments closed "non-essential" services. [4] [5] This included social gathering places such as hotels and clubs, but not businesses such as construction, manufacturing and many retail stores. [6]
+The number of new cases grew sharply, until reaching about 350 per day on 22 March. The numbers stayed around 350, and then started falling at the beginning of April. At the end of April it was under 20 cases per day. [7] As of 15 February 2021, there were 28,098 cases and 908 deaths in Australia.
+A virus that caused a respiratory illness was first seen in Wuhan City, Hubei Province, China, in December 2019. It reported to the World Health Organisation (WHO) on 31 December 2019. WHO declared the outbreak a Public Health Emergency of International Concern on 30 January, and a pandemic on 11 March.
+
+https://simple.wikipedia.org/wiki/COVID-19_pandemic_in_Bosnia_and_Herzegovina
+The COVID-19 pandemic was confirmed to have reached Bosnia and Herzegovina on 5 March 2020 in Banja Luka, who had been in Italy during the COVID-19 pandemic . Later the same day, a second case who was the son of the first case. [1]
+On 21 March 2020, the first death in the country from COVID-19 was announced in a hospital in Bihać . The patient was an elderly woman who had been hospitalized two days before.
+As of 13 May 2020, in Bosnia and Herzegovina there were 2182 confirmed coronavirus cases, of which 1168 were in Republika Srpska , [2] [3] 994 in the Federation of Bosnia and Herzegovina , [4] [5] and 20 in Brčko District . [6]
+On 17 March 2020, the Council of Ministers of Bosnia and Herzegovina declared a state of emergency in all of Bosnia and Herzegovina. [7]
+
+https://simple.wikipedia.org/wiki/COVID-19_pandemic_in_Canada
+The COVID-19 pandemic in Canada is part of the ongoing worldwide pandemic of coronavirus disease 2019 ( COVID-19 ) caused by severe acute respiratory syndrome coronavirus 2 ( SARS-CoV-2 ).
+The disease was confirmed to have reached Canada on January 27, 2020, after a man who had returned to Toronto from Wuhan , Hubei , China, tested positive. As of September 10, 2020 [update] , there have been over 134,000 confirmed cases, 118,000 recoveries and 9,000 deaths in the country. [2] The Government of Canada says that around 11,000–22,000 deaths could happen over the course of the pandemic. [3]
+Most of those cases are in Canada's most populous provinces, Ontario (19,598 cases, 1,540 deaths) [4] and Quebec (36,150 cases, 2,725 deaths). [5]
+Confirmed cases have been reported in all of Canada's provinces and territories, with the exception of Nunavut . An additional 13 cases involve citizens from the Grand Princess cruise ship. [6] [7] [8] [9]
+
+https://simple.wikipedia.org/wiki/COVID-19_pandemic_in_Eritrea
+The COVID-19 pandemic in Eritrea is part of the ongoing worldwide pandemic of coronavirus disease 2019 ( COVID-19 ) caused by severe acute respiratory syndrome coronavirus 2 ( SARS-CoV-2 ).
+On 21 March, the first case in Eritrea was confirmed in Asmara .
+
+https://simple.wikipedia.org/wiki/COVID-19_pandemic_in_Fiji
+The COVID-19 pandemic in Fiji is part of the ongoing worldwide pandemic of coronavirus disease 2019 ( COVID-19 ) caused by severe acute respiratory syndrome coronavirus 2 ( SARS-CoV-2 ).
+The first case of the disease in Fiji was reported on 19 March 2020. As of 6 July 2020 [update] , the country has had a total of 19 cases from the islands of Viti Levu and Vanua Levu as of which 18 have recovered.
+On 6 July, Fiji confirmed its nineteenth COVID-19 case. A 66-year-old Fijian citizen who had returned from India. He was transferred at Nadi hospital to be quarantined. [1]
+
+https://simple.wikipedia.org/wiki/COVID-19_pandemic_in_Florida
+The COVID-19 pandemic was first detected in the U.S. state of Florida on March 1, 2020.
+
+https://simple.wikipedia.org/wiki/COVID-19_pandemic_in_Georgia_(U.S._state)
+The COVID-19 pandemic was first detected in the U.S. state of Georgia on March 2, 2020.
+
+https://simple.wikipedia.org/wiki/COVID-19_pandemic_in_Mississippi
+The COVID-19 pandemic was first detected in the U.S. state of Mississippi on March 12, 2020.
+
+https://simple.wikipedia.org/wiki/COVID-19_pandemic_in_Montenegro
+The COVID-19 pandemic was confirmed to have spread to Montenegro when its first case was confirmed on 17 March 2020, [1] [2] making it the last European country to register a case of SARS-CoV-2 . [3]
+As of 10 September 2020, [update] the total number of cases in Montenegro is 6,222. [4]
+On 24 May 2020, 68 days after the first case was recorded in Montenegro, it became the first corona-free country in Europe. [5] [6]
+Montenegro had 0 active cases from 24 May until 14 June when the first imported case was reported.
+
+https://simple.wikipedia.org/wiki/COVID-19_pandemic_in_New_York_(state)
+The COVID-19 pandemic was first detected in the U.S. state of New York in February 2020.
+
+https://simple.wikipedia.org/wiki/COVID-19_pandemic_in_New_Zealand
+The first case of COVID-19 in New Zealand during the 2019–20 COVID-19 pandemic was reported on 28 February 2020. As of 14 May 2020 [update] , the country has a total of 1,497 cases, of which 65 are currently active, and 21 people have died from the virus. [1]
+All borders and entry ports of New Zealand were closed to all non-residents at 11:59 pm on 19 March 2020, with returning citizens and residents being required to self-isolate. Since 10 April, all New Zealanders returning from overseas must go into two weeks of quarantine .
+A four-level alert level system was added on 21 March to manage the outbreak within New Zealand.
+On 16 March, Prime Minister Jacinda Ardern called for an end to public gatherings of more than 500 people and warned that the outbreak could lead to a recession greater than the 2008 global financial crisis . [2] [3]
+
+https://simple.wikipedia.org/wiki/COVID-19_pandemic_in_Nigeria
+The first confirmed case relating to the COVID-19 pandemic in Nigeria was announced on February 27 2020, when an Italian citizen in Lagos tested positive for the virus SARS-CoV-2 . [1] [2]
+On March 9, 2020, a second case of the virus was reported in Ewekoro , Ogun State , in a Nigerian citizen who had contact with the Italian citizen. [3]
+On March 23, there were ten new cases: six in Lagos State, three in the FCT and one in Edo State . [4] They also confirmed their first death, a 67-year-old Suleiman Achimugu. [5] [6]
+Nigeria is Africa's largest economy, and it has a large oil industry.  It was hit hard when oil prices fell below zero in spring 2020 because of the pandemic. [7]
+
+https://simple.wikipedia.org/wiki/COVID-19_pandemic_in_Oceania
+The COVID-19 pandemic was confirmed to have reached Oceania on 25 January 2020 with the first confirmed case reported in Melbourne , Australia . [1] It has since spread elsewhere in the region, [2] although many small Pacific island nations have thus far avoided the outbreak by closing their international borders.
+As of 6 July, ten Oceania sovereign states have yet to report a case - Kiribati , Marshall Islands , Federated State of Micronesia , Nauru , Palau , Samoa , Solomon Islands , Tonga , Tuvalu and Vanuatu .
+
+https://simple.wikipedia.org/wiki/COVID-19_pandemic_in_Papua_New_Guinea
+The COVID-19 pandemic was confirmed to have reached Papua New Guinea on 20 March 2020. [2] On 4 May, all known cases recovered. [1]
+On 20 March, the first case in Papua New Guinea was confirmed. [2]
+On 7 April, Papua New Guinea confirmed its second case of COVID-19. [3]
+On 4 May, acting Health Secretary Dr Paison Dakulala reported that all known cases have recovered, but stresses that they don't know what they are fighting. 2,400 tests have been carried out with the bulk in Port Moresby . [1]
+
+https://simple.wikipedia.org/wiki/COVID-19_pandemic_in_the_United_Kingdom
+The ongoing COVID-19 pandemic spread to the United Kingdom in late January 2020. By 13 May there had been 
+229,705 confirmed cases [nb 4] and 
+33,186 deaths overall. [nb 2]
+More than 90% of those dying had underlying illnesses or were over 60 years old. The infection rate was higher in care homes than in the community. There were large regional difference in the outbreak's severity. The outbreak in London had the highest total number and the most infections. England and Wales were the UK countries with the highest recorded death rate per head, and Northern Ireland had the lowest.
+The Department of Health and Social Care created a public health campaign to help slow the virus's spread, and began posting daily updates in early February.
+In February, the Heath Secretary , Matt Hancock , proposed the Health Protection (Coronavirus) Regulations 2020 . Hospitals set up drive-through screening (testing for the disease). The Chief Medical Officer for England, Chris Whitty , created a four-stage strategy to tackle the outbreak: contain, delay, research and mitigate (help, lessen).
+
+https://simple.wikipedia.org/wiki/COVID-19_recession
+The coronavirus recession , also known as the Great Lockdown [1] or Great Shutdown , [2] is an ongoing major global economic recession affecting the world economy in early 2020 [3] [4] [5] during the COVID-19 pandemic . [6] [7]
+The recession has caused the largest economic downturn since the Great Depression . [8] On 14 April 2020, the International Monetary Fund (IMF) reported that all of the G7 nations had already entered or were entering into what was called a "deep recession". [9] The IMF has stated that the economic decline is "far worse" than that of the Great Recession in 2009. [10] [11] [12] [13]
+The pandemic has led to more than a third of the world's population being placed on lockdown to stop the spread of COVID-19 . [14] This has caused severe economic downfalls for economies across the world, [15] following soon after a global economic slowdown during 2019 that saw a lowering numbers in stock markets worldwide. [16] [17]
+The United Nations (UN) predicted in April 2020 that global unemployment will wipe out 6.7 per cent of working hours globally in the second quarter of 2020—equivalent to 195 million full-time workers. [18]
+
+https://simple.wikipedia.org/wiki/COVID-19_testing
+COVID-19 testing can help find the SARS-CoV-2 virus. There are two types of test; one can find the virus (i.e. Polymerase chain reaction , also called PCR) and the other that can find antibodies produced in response to infection .
+An accurate mortality rate of the disease and the level of herd immunity in the population can be found from the results of these tests. However, it is still not known how long immunity will last, and how effective it will be. [1]
+Due to limited testing, as of March 2020, no countries had reliable data of the virus. [2]
+Demonstration of a nose swab ( nasopharyngeal swab ) for COVID‑19 testing
 
 https://simple.wikipedia.org/wiki/COVID-19_vaccine
 A COVID-19 vaccine is any of the vaccines used against the Coronavirus Disease 2019 ( COVID-19 pandemic ). In July 2020, more than 150 vaccines were being developed in different laboratories. [1] Two mRNA vaccines , one by Pfizer and one by Moderna , were approved late in 2020. Both are over 90% effective. [2] A few vaccines also went into use in early 2021.
 Several countries plan to give the vaccine to many people, but their plans are different. The United Kingdom plans to use its National Health Service .  Canada plans to use its military. The United States plans to send vaccines to all fifty states and then let the state governments each make their own system. [3]
 The United Kingdom approved the Pfizer vaccine before the European Union or United States did. They began giving it to people on December 8. [4] The United States began giving people the vaccine on December 14, starting with health care workers in New York City . [5] By April 2021, several vaccines were in use around the world and hundreds of millions of people had been vaccinated.
 In late February 2020, the World Health Organization (WHO) said it did not expect a vaccine against Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2), the causative virus, to become available in less than 18 months. [6] The Coalition for Epidemic Preparedness Innovations (CEPI) – which is organizing a US$2 billion worldwide fund for fast investment and creation of vaccine candidates [7] – indicated in April that a vaccine may be available under emergency use protocols in less than 12 months or by early 2021. [8] On 4 May 2020, the WHO organized a telethon (fundraising event broadcasted via televisions) to raise US$8 billion from forty countries to support rapid development of vaccines to prevent COVID-19 infections and deaths. [9] The United States government started Operation Warp Speed to develop a vaccine by January 2021. [1]
-https://simple.wikipedia.org/wiki/Detoxification
-Detoxification is when any toxic thing is removed from the human body, for example alcohol or poison. [1] A healthy lifestyle along with regular exercise can help you to remove toxins from the body. [ source? ]
-https://simple.wikipedia.org/wiki/Distress_(medicine)
-In medicine , distress is a situation when a person is unable to completely adapt to stress . As a result, the person shows a set of behaviours which are not adapted to the situation. Very often, the person is aware of the situation, and feels bad about not being able to fully adapt.
-People often find ways of dealing with distress, in both negative and positive ways. Examples of positive ways are listening to music, calming exercises, sports and similar healthy distractions. Negative ways can include but are not limited to use of drugs including alcohol, and expression of anger, which are likely to lead to complicated social interactions, thus causing increased distress.
-https://simple.wikipedia.org/wiki/Adrian_Dix
-Adrian Dix (born April 20, 1964) is a Canadian politician . He is a member of the Legislative Assembly of British Columbia and the Minister of Health of British Columbia , Canada . He was also the leader of the British Columbia New Democratic Party from 2011 to 2014. [1]
-Dix was first elected to the Legislative Assembly in the 2005 provincial election . He led the BC NDP into the 2013 provincial election . Even though opinion polling showed that he would win the election, he lost the election to the BC Liberal Party . Because of this, he resigned as the leader of the BC NDP. [2]
-Dix was first elected to the Legislative Assembly in the 2005 provincial election. He was elected to the electoral district of Vancouver-Kingsway . He beat the incumbent Liberal MLA Rob Nijjar . [3]
-https://simple.wikipedia.org/wiki/Dyslipidemia
-Dislipidemia is the condition of having too much much lipids (essentially: fat ) in the bloodstream . The main treatmeent consists in lowering the amount of cholesterol . In most cases, this is done with a change of the diet and the lifestyle . In some cases, drugs are used to help. There are several cases, where dislipidemia is caused by a birth defect . Other conditions affecting dyslipidemia is being overweight , or an unbalanced nutrition . Many diseases of the liver , or the thyroid gland can cause dyslipidemia. Another disease that can cause dyslipidemia is Diabetes mellitus .
-https://simple.wikipedia.org/wiki/Electroconvulsive_therapy
-Electroconvulsive therapy ( ECT ), also called electroshock , is a psychiatric treatment in which seizures are caused by electricity in unconscious patients to treat llness.
-The process is completed by placing electrodes on the sides of the patient's head (on either both or just one side) and sending a small electric current through the brain. This lasts for about half a second.
-The patient is also made unconscious before the treatment for safety reasons. The therapy without informed consent is medical abuse and Article 18 of the Yogyakarta Principles prohibit to "care" any sexual orientation and gender identity though any therapy including this.
 
-https://simple.wikipedia.org/wiki/Elizabethan_collar
-An Elizabethan collar , also called a, e-collar , lampshade or cone of shame is a piece of equipment used in veterinary medicine . [1] They stop the animal from licking or biting its body and from scratching or touching its head with its feet. [2]
-The veterinarian places the collar around the neck of an injured animal so that it cannot bite or lick the injured part of its body.  For example, a dog with a cut on its skin might need medicine placed directly on the cut. The dog might try to lick the medicine and poison itself.  An animal that has had surgery might try to pull out its stitches .  An animal with a broken leg might bite into its cast and try to pull it off.  If it is wearing an Elizabethan collar, it cannot do this.
-Some pet owners say their pets find it difficult to eat, drink and play while wearing an Elizabethan collar. [2] Veterinarians sometimes try other collars, like those made out of cloth, collars that look like inner-tube-shaped cushions, and collars that act more like a neck brace , stopping the animal from moving its head. [3]
-Elizabethan collars are named after Elizabethan ruffs , stiff, starched collars that people wore in 1500s England.
-https://simple.wikipedia.org/wiki/Equilibrioception
-Equilibrioception is the sense of balance . This is what prevents a person or animal from falling over while walking or doing other physical activity.
-In humans, equilibrioception is mainly sensed by the detection of acceleration, which occurs in the vestibular system . Other senses play roles as well, e.g. the visual system and proprioception . The importance of visual input for balance is illustrated by its being harder to stand on one foot with eyes closed than with eyes open.
-The sense of balance often gets worse as a person ages . After a stroke , it may be improved with the help of special training. [1]
-https://simple.wikipedia.org/wiki/Eustress
-Eustress is positive or good stress . It is the opposite of distress. Eustress is the positive stress that a person gets from riding a roller coaster , or a high speed bike, or singing in front of an audience. People may feel very good afterwards if they experience eustress.
-People often have the same physical reactions (sweating, trembling, shivering, etc.) for both eustress and distress.
+https://simple.wikipedia.org/wiki/Brett_E._Crozier
+Brett E. Crozier is an American naval officer. When he was captain of the aircraft carrier Theodore Roosevelt , he noticed that some of his crew had caught COVID-19 , a serious disease that affects the lungs and breathing.  Late in March, 2020, he wrote letters asking for permission to send his sick sailors off his ship to Guam .  These letters were found and printed in a newspaper.  A few days later, the Navy fired Crozier as the captain of the Theodore Roosevelt but did not fire him from the Navy entirely. [1] [2] [3]
+In late April, some leaders in the Navy asked that Crozier be reinstated and sent back as captain of the Theodore Roosevelt . [4]
+Brett Crozier is from Santa Rosa , California .  He graduated from the United States Naval Academy in 1992 and became a pilot for the Navy in 1994.  He fought in Iraq in 2003.  He later earned a Master's Degree in National Security and Strategic Studies at the Naval War College .  He served in many different positions in the Navy, including Executive Officer of the USS Ronald Reagan .  Brett Crozier was captain of the USS Blue Ridge from June 2017 to November 2018. [5]
+He wrote more than twenty copies of a four-page letter, dated March 30, 2020.  He addressed it to senior officials in the military.  He asked for permission to send 1000 of his crew off the ship.  The ship had more than 4000 people on it.  Someone found his messages and they were printed in the newspaper San Francisco Chronicle on March 31, 2020.
 
-https://simple.wikipedia.org/wiki/Fatigue
-Fatigue or tiredness is a physical or mental feeling. It happens when someone is ready to sleep or has done a lot of physical exercise . The person may feel weak, slow or sleepy. They may yawn , and may find it difficult to keep the eyes open. Usual fatigue goes away when you rest or sleep.
-Fatigue may also be caused by physical or mental illness , jet lag , drug or alcohol use, medications , blood loss , malnutrition , starvation, stress or boredom .
+https://simple.wikipedia.org/wiki/Diamond_Princess_(ship)
+Diamond Princess is a British-registered cruise ship owned and operated by Princess Cruises . She began operation in March 2004 and mainly cruises in Asia during the northern hemisphere summer and Australia during the southern hemisphere summer.
+Diamond Princess was built in Nagasaki, Japan , by Mitsubishi Industries .
+There have been two known outbreaks of infectious disease on the ship – an outbreak of gastroenteritis caused by norovirus in 2016 and an outbreak of the COVID-19 coronavirus in 2020. [1] At least 712 out of the 3,711 passengers and crew were infected, [1] and fourteen have died. [2]
 
-https://simple.wikipedia.org/wiki/Female_genital_mutilation
+https://simple.wikipedia.org/wiki/Farmers_to_Families_Food_Box
+The Farmers to Families Food Box program is set up by the United States ' government during the COVID-19 pandemic to help get fresh food from farmers to consumers. The food is put into "family-sized" boxes containing produce, dairy products and/or meat. The programs is run by the USDA ( Department of Agriculture ).  It is part of the government's general response to the pandemic, called the Coronavirus Food Assistance Program  run by the USDA.  It was announced on April 15, 2020. According to the program's home page, over 70,000,000 boxes were invoiced between the start date and then end of August. [1] As of the second week of August 2020, the program's budget was three billion dollars. [2]
+The USDA buys the produce from farmers. Then the food is sent to local packaging companies.  These companies distribute the packages to local organizations such as NGOs and religious orga
+nizations. The program sets no restrictions on which families may pick of the boxes. [3]
+The program has been positively received.  However, there has been some criticism.  For example, the boxes weigh forty pounds.  This can make it difficult for people without a car to get the boxes home.  Also, the program initially only had boxes with produce, dairy products and meat.  Since some people do not eat dairy or meat products, this created a problem. [4] It has also been stated that specialty-crop farmers have not been helped enough by the program. [5]
 
-Female genital mutilation ( FGM ) is cutting off part or all of the female genitals that are outside of the body.  FGM is also called female genital cutting and female circumcision .  It is done for traditional reasons, as part of a ritual , not for medical reasons.
-FGM is most common in 27 African countries, as well as Yemen and Iraqi Kurdistan .  However, it also happens in other countries in Asia , the Middle East and around the world. [5] Usually, FGM is not done by a doctor or in a hospital . [6] It is often done with a razor blade or other sharp instruments, in many cases without anesthesia .
-Different ethnic groups do different kinds of FGM. They also do FGM at different ages.  Some groups do FGM when infants are only a few days old.  Others do it when girls reach puberty , or are older.  In about half the countries where FGM happens, most girls have FGM before they are five years old. [4]
-https://simple.wikipedia.org/wiki/First_aid
-First aid is promptly helping people who are suddenly sick ( illnesses ) or hurt ( injuries or body damage).  For example, first aid is used at accident s to help an injured person until they receive medical treatment (help by doctors , nurses or ambulances ).  First aid is also used to help people who suddenly become sick, until help arrives or they can be taken to medical care.
-A person does not need much equipment to give first aid. A package of things useful to give first aid is called a first aid kit . Lives can be saved even without a first aid kit. What is required is basic knowledge. First aid can be done just about anywhere that an emergency requires. In places far from hospitals , first aid may be the only help possible until the person can be taken to a hospital or clinic .
-Emergency medical dispatchers are trained in first aid, so that if there is an emergency, they can give the caller some information on what to do until the ambulance arrives.  This can include the "C-A-B" listed below.
-First aid skills are kept simple on purpose so that people can remember and use them in an emergency to save at least one life.
-https://simple.wikipedia.org/wiki/First_aid_kit
-First aid kits are used to perform first aid on injured people.
-A first aid kit often contains the following items:
+https://simple.wikipedia.org/wiki/Anthony_Fauci
+Anthony Stephen Fauci ( / ˈ f aʊ tʃ i / ; born December 24, 1940) is an American immunologist . He works for the National Institutes of Health of the  United States. He is the head of the National Institute of Allergy and Infectious Diseases (NIAID) at the National Institutes of Health (NIH). He became well known in 2020 during the COVID-19 pandemic in the United States for his information about preventing the spread of disease .
+He has been called "the nation’s leading expert on infectious diseases". [1] He is a member of the White House Coronavirus Task Force on the 2020 coronavirus pandemic .
+On December 4, 2020, newly elected President Joe Biden announced that Fauci would serve as Chief Medical Advisor to the President in the Biden administration. [2]
 
 
-https://simple.wikipedia.org/wiki/Gateway_drug_theory
-Gateway drug theory is the idea that once a person uses one illegal drug , they are more likely to use other drugs.  It is also called stepping-stone theory , escalation hypothesis , or progression hypothesis.
-If the gateway theory is true, people who use one drug may be more likely to use other drugs because:
-The gateway theory helps shape education and lawmaking about drugs. Scientific study of the possible causes of the gateway theory is important for health policy. [1]
-https://simple.wikipedia.org/wiki/Hallucination
-A hallucination is seeing, hearing, tasting, smelling or feeling things that do not really exist. Usually people have to be awake and conscious to have hallucinations. That way, a person who sees or hears something that is not really there has a hallucination. Hallucinations are different from dreams . When people dream they are not awake. Hallucinations are also different from illusions . Illusions are based on real perceptions, which are distorted or interpreted in a wrong way.
-Certain drugs can cause hallucinations. Some illegal drugs are taken because they cause hallucinations. Certain mental illnesses can also cause hallucinations. In some cases, withdrawal of a drug can also cause hallucinations. This has especially been reported by people trying to stop taking sleeping pills , or by alcoholics .
-People who have hallucinations are not necessarily ill, lack of sleep can also cause hallucinations. Hallucinations just before going to sleep or just after waking up are considered normal.
-Hallucinations can affect all of a person's senses . People with the mental illness of schizophrenia may hear sounds or voices that are not really there. People with certain mental illnesses may also have hallucinations in which they see a person or thing which is not really there. People are less likely to have hallucinations in which they smell or touch something that is not really there. Certain forms of epilepsy can cause hallucinations. Finally, hallucinations can be the result of certain substances taken or of certain physical constellations. Most of the time, these substances are taken to get the hallucinations. Sometimes, (severe) lack of sleep , or high fever can lead to hallucinations brought on by such viruses as the common cold .
-https://simple.wikipedia.org/wiki/Harvard_-MIT_Program_in_Health_Sciences_and_Technology
-Harvard–MIT Program in Health Sciences and Technology , or HST , is a biomedical engineering and physician-scientist training programs in the United States . It was established in 1970 and is the collaborative program between Harvard University and the Massachusetts Institute of Technology (MIT). Within the program, graduate and medical students are registered with both MIT and Harvard and work with faculty and affiliated faculty members from both communities. HST is a part of MIT's Institute for Medical Engineering and Science and forms the London Society at Harvard Medical School. [1] [2]
-HST's program aims to bring engineering , physical sciences, and biological sciences from the laboratory bench to the patient's bedside. Similarly, it also aims to bring clinical insight from the patient's bedside to the laboratory bench. Consequently, HST students are trained to have a deep and exposure in understanding of engineering and scientific fundamentals that complement with hands-on experience in the clinic or in industry.
-https://simple.wikipedia.org/wiki/Healing
-Healing is a process that happens in the body . Through healing, cells are able to repair damaged tissue .
-There are two different ways healing can happen:
-Most healing processes combine both ways of healing.
+https://simple.wikipedia.org/wiki/Flatten_the_curve
+Flattening the curve is a public health strategy to slow down the spread of the COVID-19 virus during the COVID-19 pandemic . The curve being flattened is the epidemic curve , a representation of the number of infected people needing health care over time.
+During an epidemic, a health care system can break down when the number of people infected passes the health care system's ability to take care of them.
+Flattening the curve means slowing the spread of the epidemic so that the peak number of people requiring care at a time is reduced, and the health care system does not pass its capacity.
+Flattening the curve relies on techniques such as quarantine , stay at home orders , and social distancing .
 
-https://simple.wikipedia.org/wiki/Hiccups
-The hiccups (hik-ups) are a discomfort in which one randomly gasps due to bubbles in the diaphragm . This is not a disease but a temporary discomfort, although hiccups can last as long as years.
+https://simple.wikipedia.org/wiki/Gam-COVID-Vac
+Gam-COVID-Vac ( Russian : Гам-КОВИД-Вак , romanized: Gam-KOVID-Vak ), trade-named Sputnik V , is a COVID-19 vaccine created by the Gamaleya Research Institute of Epidemiology and Microbiology , and registered on 11 August 2020 by the Russian Ministry of Health . [1] [2] [3]
+Gam-COVID-Vac has been approved for distribution in Russia . [1] [4] [5]
 
-https://simple.wikipedia.org/wiki/Human_microbiome
-The human microbiome (or human microbiota ) is the collection of microorganisms which live on us. They live on the skin, in the saliva and mouth, in the eyes, and in the gut and the rest of the gastrointestinal tract . They include bacteria , archaea , fungi and single- celled eukaryotes (' protozoa '). [1] Everyone carries around far more of these microbes than the number of human cells in the body. The human body has about 100 trillion cells , and carries about ten times as many microorganisms in the intestines alone . [2] [3] [4] [5]
-The microbiome is "the ecological community of commensal , symbiotic , and pathogenic microorganisms that literally share our body space". [6] [7] The term was originally coined by Joshua Lederberg . He thought the microorganisms living in the human body in health and disease were important. Many scientific articles distinguish "microbiome" and " microbiota " to describe either the collective genomes of the microorganisms that live in an environmental niche or the microorganisms themselves, respectively. [8] [9] [10] However, by the original definitions these terms are largely synonymous .
-Some of these organisms are useful for humans. However, most have no known effect. They are just symbionts : they live with us. Those which are expected to be present are members of the normal flora . Under normal circumstances they do not cause disease, but may even help our health. Studies in 2009 asked whether our health is damaged if we reduce this biota. [11] This is certainly the case with gut flora . [3]
-Although "flora" refers to plants rather than bacteria, the term 'gut flora' is widely used and familiar to biologists. ' Biota ' refers to the total collection of organisms in an ecosystem . The term 'microbiota' is best for bacteria and other microorganisms, but no doubt 'flora' will often be used.
-https://simple.wikipedia.org/wiki/Hypertrophy
-In biology, hypertrophy is the increase in size of an organ , beyond normal growth. Hypertrophy happens because the cells grow bigger. The condition where an organ is bigger, because there are more cells is called hyperplasia .
-Some cells like adipocytes (fat cells) get larger by expanding outward while filling up with more lipid contents, while myocytes (muscle cells) can fuse with other myocytes to form huge myotube cells. Organs or tissues can grow larger due to the enlargement of their component cells . One of the most common and visible forms of normal, organ hypertrophy occurs in skeletal muscles in response to strength training or bodybuilding .
-In contrast, tissues and organs can also get larger by another mechanism, hyperplasia, in which the cells remain approximately the same size but increase in number . Although hypertrophy and hyperplasia are two distinct processes, they frequently occur together. The hormonally -induced proliferation and enlargement of the cells of the uterus during pregnancy is an example of this combination under normal conditions. In some tumors, enlargement can occur by an increase in the number of cells together with the occurrence of some abnormally large cells.
-https://simple.wikipedia.org/wiki/International_health
-International health means two different, but related, things. It means care of people who travel from one country to another, and knowledge of diseases foreign to the traveler. [1] It also means people from one country trying to improve health in another.
-There are different kinds of groups that are involved in international health. They engage in international health for different reasons and with different ethics and rules.
-Governments of rich, "developed" countries are often interested in the health of other countries. They are especially interested in the health of neighbor countries. The reasons for this are many: if they have extra resources, they may want to share them with their neighbors; but also they may want to stop spread of diseases from their neighbor country across the border. For example, the United States is a richer country than Mexico and has little problem with measles (in children) or rabies (in mammals ) in the interior, but along the border with Mexico these diseases are more common.
-The Western Hemisphere 's countries have formed PAHO, the Pan American Health Organization, to deal with these kinds of problems  in an organized way. PAHO knows that people and goods flow across borders in both directions, and a problem in one country will soon be a problem in its partner countries. PAHO is an example of an international organization .
-https://simple.wikipedia.org/wiki/Intoxication
-Intoxication is the state of being affected by one or more psychoactive drugs . It can also refer to the effects caused by the ingestion of poison or by the overconsumption of normally harmless substances.
-People who drink too much alcohol become intoxicated. [1] They may become impaired in some or all of their senses like touch or even eyesight. Long term drinkers develop tolerance to alcohol. This high tolerance means it takes more alcohol to produce the outward signs of intoxication. [2] Intoxication may bring delirium or make people do or say things that are not normal for them. The level of harm done usually depends on the substance and the amount. Mild intoxication usually is not permanently harmful. Mild stimulants like caffeine usually do not harm the person.
-Some types of intoxication:
-Intoxication can cause a state of mind that remains once the person is no longer intoxicated that can be used as a legal defense:
-https://simple.wikipedia.org/wiki/Massage
-Massages refer to rubbing a particular place on the body . They are often performed when a certain part of the human body is injured, strained or in cramps. Massages are often performed on human feet , backs and arms , but can be done on many parts of the body.
-https://simple.wikipedia.org/wiki/Mediterranean_diet
-The Mediterranean diet is a way of eating.  The Mediterranean diet is not only food.  It is also the skills and traditions people use to make it, for example farming, fishing, and cooking.  It is also the traditions and culture about food and meals. [1]
-In the second half of the 20th century, people far from the Mediterranean Sea began to eat a Mediterranean diet to become healthier.  In 2019, U.S. News and World Report named the Mediterranean diet "Best Overall Diet." [2] [3]
-A scientist named Ancel Keys started studying the Mediterranean diet in the 1950s.  He saw that people in poor Italian villages were healthier than people in New York . [3]
-In 2013, the United Nations declared the Mediterranean diet intangible cultural heritage from Cyprus , Croatia , Spain , Greece , Italy , Morocco and Portugal . [1]
-https://simple.wikipedia.org/wiki/Mental_capacity
-Mental capacity in law is a term used to describe a person's ability to make decisions for themselves and to understand what those decisions will mean for them.
-Sometimes, people who are unwell, such as those with illnesses which affect their memory ( Alzheimer's disease or Dementia ), those with learning difficulties , or who have mental health problems, may find themselves in a position where their ability to make decisions for themselves is questioned.  This may be because they do not understand that what they are doing is not good for them; they do not realise that it might make them ill or get them into trouble.
-People can also lack capacity if they are unable to communicate in any way; for example, if they're in a coma or if they have severe brain damage .  In this case, it may be necessary for someone else, such as an advocate or a Judge to make decisions for them by making a court order .
-In some countries, like the United Kingdom , laws exist which tell those working with people whose capacity might be in doubt, what they must do and how to decide if someone is capable of making their own decisions.  In the UK, this law is called the Mental Capacity Act (2005). [1] It lists 5 rules which must be used as a guide; in simple terms, they are:
-https://simple.wikipedia.org/wiki/Muteness
-Muteness means not being able to speak. A person that can not speak using sound is called a mute . It is a type of speech  disorder . A person who chooses not to speak can also be said to be mute.
+https://simple.wikipedia.org/wiki/Josh_fight
+The Josh Fight was a viral internet meme and pretend fight at Air Park in Lincoln, Nebraska , on April 24, 2021. [1] [2]
+A college student named Josh Swain from Tucson, Arizona had the idea for the Josh Fight.  He was bored because of the COVID-19 pandemic , and this gave him the idea. [3] He talked about it on April 24, 2020. After a screenshot of a Facebook Messenger group chat involving several users named Josh spread widely on the internet , many people learned about the Josh Fight.
+Swain told other people named Josh Swain to meet at a set of coordinates , where they would fight for the right to be the only person to be called "Josh Swain." Later, more people with the first name Josh became interested.  Swain meant this as a joke, but several hundred people showed up on the day of the event. Despite the title, there was no violence involved and the gathering was lighthearted.  Fighting involved playing rock, paper, scissors and hitting each other with pool noodles made of light foam.  The fighters raised over $7000 for charity.  A four-year-old fighter, Joshua Vinson Jr., nicknamed "Little Josh," won the fight. [4]
 
-https://simple.wikipedia.org/wiki/Mutilation
-Mutilation is when the way a human body looks is permanently changed. This change may be due to an accident , or it may be the result of torture .
-Losing a part of the body (like a hand), or permanent scars (different looking skin after a bad injury heals) on the body, might be a result of mutilation.
-https://simple.wikipedia.org/wiki/Nebulizer
-Nebuliser is a medical instrument or device which is used give extra supply of air to the persons suffering from Asthma or any having any breathing problems to breathe in properly.
-It is also used for the patients with runny nose or nasal stroke.
-https://simple.wikipedia.org/wiki/Nocturnal_enuresis
-Nocturnal enuresis , also called bedwetting , is a health issue that is often caused by or the symptom of certain health troubles. It happens when a person involuntarily urinates while she is asleep .
+https://simple.wikipedia.org/wiki/List_of_deaths_due_to_COVID-19
+This is a list of notable people who died from coronavirus disease 2019 (COVID-19), coming from the virus SARS-CoV-2 that first spread during the global pandemic .
+2020: January · February · March · April · May · June · July · August · September · October · November · December 2021: January · February · March · April · May
+This table is arranged by death date, earliest first. To sort it by name, age, occupation, or place of death, or to have the most recent deaths listed first, click the column headings.
 
-https://simple.wikipedia.org/wiki/Occupational_Safety_and_Health
-Occupational Safety and Health is a set of laws that have been made to protect the health and the safety of people when they are working.  Health and safety rules will vary a lot from one country to another.  Some countries have very strict rules.  Rules about Health and Safety have been made since 1950 when the International Labour Organization (ILO) and the World Health Organization (WHO) agreed about standards of health in the workplace.
-Health and safety laws will deal with such things as: the temperature in the workplace (it must not be too hot or too cold), things on the floor that people could fall over, or things that could catch on their clothing and cause an accident, smoking in the workplace and other things that might cause pollution or which might be fire hazards, how many toilets per person there should be, whether they need safety equipment (e.g. hard hats in case anything falls on their heads), whether it is safe for a person to be left alone in the workplace, the rights of disabled people , how many hours in the day people can work for etc.
-Businesses that do not obey health and safety regulations may be punished (e.g. with a fine or forced to close), or they may be held responsible if there is an accident.
-In the European Union , member states have authorities which make sure that people obey the health and safety laws.  In the UK , health and safety legislation is made by the Health and Safety Executive and local authorities (the local council) under the Health and Safety at Work etc. Act 1974 . [1]
-https://simple.wikipedia.org/wiki/Omega-3_fatty_acid
-Omega-3 fatty acids are polyunsaturated fatty acids. They have a double bond three atoms away from the end methyl group.
-The most common sources for plant oils are walnuts , hemp oil and flaxseed oil . Sources of animal omega-3 fats include eggs , squid oils and fish .
-Dietary supplementation does not affect the risk of cancer , heart disease or death . [1]
-They are not a main treatment for attention deficit hyperactivity disorder (ADHD), autism and other developmental disabilities . However, omega-3 supplements are often given to children with these conditions. [2]
-https://simple.wikipedia.org/wiki/Omega-6_fatty_acid
-Omega-6 fatty acids are a family of polyunsaturated fatty acids .
-Some medical research notes that high levels of omega-6 fatty acids from seed oils may increase the chance for a number of diseases . [1] However, having non-rancid nuts , which are high in omega-6, is associated with lower risk for some diseases, including cardiovascular diseases , stroke , heart attacks and certain cancers . [2]
-Modern Western diets often have ratios of omega-6 to omega 3 higher than 10. Some are as high as 30. The normal ratio of omega-6 to omega-3 in the Western diet is 15–16.7, mainly from vegetable oils . [3]
-Vegetable oils are a major source of omega-6 linoleic acid. Worldwide, more than 100 million metric tons of vegetable oils are extracted annually from palm fruits , soybean seeds , rape seeds , and sunflower seeds , providing more than 32 million metric tons of omega-6 linoleic acid and 4 million metric tons of omega-3 alpha-linolenic acid. [4] [5]
-https://simple.wikipedia.org/wiki/Osteopathy
-Osteopathy is a philosophy that refers to the ability of the human body to heal itself.
-https://simple.wikipedia.org/wiki/Poison
-Poisons are substances which cause death or injury when taken in by a living thing . [1] [2] It may be taken in as drink or food, or absorbed through the skin. The damage is usually done by a chemical reaction . The effect of the poison varies with the amount which is absorbed (taken in or inhaled). Substances which are poisonous are called toxic , but any substance can be toxic if too much of it is consumed. If poisoning causes death, it is lethal poison.
-Legally, and in hazardous chemical labeling, poisons are especially toxic substances. Less toxic substances are labeled "harmful", "irritant", or not labeled at all.
-In medicine and zoology , toxins and venoms are different from poisons. Toxins are the result of a biological process. Venoms are substances which the organism uses to harm other species . Certain organisms use venoms for hunting, or as a defense. If an organism is poisonous , such as many mushrooms, it is harmful to eat. If it is venomous , like snakes or honeybees, it has a harmful bite or sting. For some very deadly bites humans have developed effective antivenoms .
-Often it is only the quantity of a substance that makes the difference. Drinking alcoholic drinks may lead to aggressive behaviour, problems with speech, and different forms of amnesia . This effect is called intoxication . People who drink even more may go into shock .  At the same time, alcohol can be used as a disinfectant .
-https://simple.wikipedia.org/wiki/Raw_food
-Foods are raw when they are not cooked . 
-Most things are good to eat raw, but some can be poisonous.
-There's currently no solid evidence to suggest that raw food is more healthy than cooked food.
-Raw food can sometimes make people sick because of bacteria which would otherwise be destroyed by cooking.
-https://simple.wikipedia.org/wiki/Ritual_purification
-Ritual purification is the ritual prescribed by a religion by which a person is considered to be free of uncleanliness . Many religgions require that those worshipping should be in this state. Ritual purity is a state of ritual cleanliness . Ritual purification may also apply to objects and places. Ritual uncleanliness is not identical with ordinary physical impurity, such as dirt stains; nevertheless, body fluids are generally considered ritually unclean.
-Most of these rituals existed long before the germ theory of disease , and figure prominently from the earliest known religious systems of the Ancient Near East . Some writers connect the rituals to taboos .
-Some have seen benefits of these practices for health and preventing infections especially in areas where humans come in close contact with each other.  While these practices came before the idea of the germ theory was public in areas that use daily cleaning, the destruction of infectious agents seems to be dramatic. [1] Others have described a 'dimension of purity' that is universal in religions that seeks to move us away from disgust, (at one extreme) and to uplift us towards purity and divinity (at the other extreme). Away from uncleanliness to purity, and away from deviant to moral behavior, (within one's cultural context). [2]
-https://simple.wikipedia.org/wiki/RNA_vaccine
-Messenger RNA vaccines or mRNA vaccines is a type of vaccine that protect the body from certain viruses .  Some mRNA vaccines help the body kill cancer . [1] [2] Like all vaccines , mRNA vaccines increase the body's immunity so the patient is less likely to catch an infectious disease .
-Almost all cells make and use their own mRNA.  They use it to make proteins.  Each mRNA is like a blueprint or recipe for one kind of protein.
-Most vaccines work by taking something from a harmful germ and putting it inside the patient's body without any parts of the germ that cause harm.  Then the patient's own cells learn to identify the germ using its other parts.  Then, if a living germ ever attacks the body, the patient's cells fight it off without having to learn what it is first.  Some vaccines do this by putting a dead, weak germ inside the patient's body.  Other vaccines do this by putting lots of proteins that the germ makes inside the body but not any germs themselves.  mRNA vaccines work by putting mRNA inside the body instead of protein.  Then the body uses the mRNA to make protein itself.
-mRNA vaccines can be injected into the skin or muscle with a needle. [2] Some mRNA vaccines can be inhaled into the patient's nose.  Anti-cancer mRNA vaccines can be injected into the tumor.
-https://simple.wikipedia.org/wiki/Saturated_fat
-Saturated fat is a kind of fat . It has no double bonds . It has carbon atoms that are fully saturated with hydrogen . Saturated fats are usually solid at room temperature. They have no double bonds, while unsaturated fat has one or two. Due to no double bonds, their oxidation process is slow. [1]
-Is saturated fat a risk factor for heart disease (CVD)? This is a question with many controversial views. [2] Although most in the mainstream heart-health, government, and medical communities hold that saturated fat is a risk factor for CVD, some recent studies have produced conflicting results.
-For a long time scientists have believed that eating saturated fat was a leading cause for heart attack, cancer, or other diseases. However, new research have shown that there is no connection between how much saturated fat you eat and heart diseases. [2] [3] [4] This is still a controversial question.
-Things like butter , coconut , lard and meat have lots of saturated fat.
-https://simple.wikipedia.org/wiki/Sauna
-A sauna is a small room or building that is made hot. The heat of a sauna is calming and makes the person using it sweat . This is believed to help people be more healthy though it causes stress on the body by overheating. Today many countries and groups of people have different ways of heating and using a sauna. The temperature is often 80° C in Finnish saunas. The heat can be more than 100°C. Finnish and Swedish saunas have lower humidity (the air is less wet ) to make this high heat comfortable.
-The Turkish hammam has a high humidity (the air is more wet) and a lower temperature.
-Today saunas can often be found at hotels and places for sports and exercise . In Finland, they are more common and are also often in private apartments and office buildings .
-In almost every house in Finland they have a sauna.
-https://simple.wikipedia.org/wiki/Search_and_rescue
-Search and rescue is when people look for a person who is lost or in danger. It is usually carried by ships , helicopters , or land vehicles that are specially equipped. Most of these missions take place at sea or in the mountains . Search and rescue missions are performed by civilian and military rescuers, such as police or firefighters .
-Combat search and rescue is a military variant performed by special forces like the United States Navy SEALs on the battlefield.
+https://simple.wikipedia.org/wiki/List_of_incidents_of_xenophobia_and_racism_related_to_the_COVID-19_pandemic
+The COVID-19 pandemic started in the city of Wuhan, China in December 2019. It has led to increased acts of prejudice , xenophobia , discrimination , racism and violence against people of Southeast Asian , Hispanic , East Asian , Native American , biracial and black people all over the world. With the spread of the pandemic and in formation of hotspots, like those in Asia , Europe and the Americas , discrimination against people from these hotspots was reported.
+According to the Embassy of Japan in Cairo , store clerks were hesitating to serve Japanese customers. "Corona" became a new slur by which to abuse Japanese people on the street. [1]
+On 10 March 2020, an Uber driver was arrested when a viral video forcibly removing a Chinese passenger in Cairo's Maadi district. The passenger was thought to have the coronavirus. The incident caused an uproar among Egyptians when the video was uploaded. Some Egyptians visited the Chinese man in his hotel room. [2]
+Violence toward foreign people was reported during the pandemic. Some local people attacked foreign people. The attackers published a number of photos of them under social media and linked them to the Covid-19. [3]
 
-https://simple.wikipedia.org/wiki/Stress_(biology)
-Stress is a word used in biology and medicine to describe changes that can be seen in organisms . Stress can be physical or mental. Stress can describe a pressure , like the pressure of a person's upper teeth on their lower teeth while chewing. Stress can also describe an impact, when one object hits another.
-Stress describes a living thing's response to a threat or some other change in its environment . This change can be called a "stressor." Stressors can vary in size and impact. A stressor can be internal and come from inside the living thing - like an illness. [1] A stressor can be external, coming from outside the living thing - like an attack.
-There are different types of stress. Each type has different characteristics and symptoms.
-Organisms can respond to stress in different ways.
-https://simple.wikipedia.org/wiki/Stress_management
-Stress management is the name for a number of techniques to control the level of psychical stress situations. It is usually done to impove  everyday functioning. Stress produces many physical and mental symptoms which are different in every individual situation. Stress can make physical health worse, and it can lead to clinical depression .   The process of stress management is named as one of the keys to a happy and successful life in modern society Although life provides numerous demands that can prove difficult to handle, stress management provides a number of ways to manage anxiety and maintain overall well-being.
-https://simple.wikipedia.org/wiki/Surgical_mask
-A surgical mask , also known as a procedure mask , medical mask or simply as a face mask , [1] [2] is a  mask. It is intended to be worn by health professionals during surgery and during nursing . Such masks are used to catch the bacteria shed in liquid droplets and aerosol s from the wearer's mouth and nose. They are not designed to protect the wearer from inhaling airborne bacteria or virus particles and are less effective than respirators , which provide better protection.
-There are different qualities of such mask. Despite their name, not all surgical masks should be used during surgeries. Chinese health officials distinguish between medical (non-surgical) and surgical masks. [3]
-Surgical masks are made of a nonwoven fabric created using a melt blowing process.  They came into use in the 1960s and largely replaced cloth facemasks in developed countries .  A shortage of surgical masks is a central issue of the ongoing 2019–20 coronavirus pandemic . [4] [5]
-Surgical masks are popularly worn by the general public all year round in East Asian countries like China , Japan and South Korea to reduce the chance of spreading airborne diseases to others, and to prevent the breathing in of airborne dust particles created by air pollution . [6] Additionally, surgical masks have become a fashion statement, particularly in contemporary East Asian culture bolstered by its popularity in Japanese and Korean pop culture which have a big impact on East Asian youth culture . [7] [8]
-https://simple.wikipedia.org/wiki/Tacuinum_sanitatis
-The Tacuinum (sometimes Taccuinum ) Sanitatis [1] is a medieval handbook mainly on health . It is based on the Taqwim al‑sihha تقويم الصحة ("Maintenance of Health"), an eleventh-century Arab work an health by Ibn Butlan of Baghdad . [2] The text exists in several variant Latin versions .
-It describes in detail the beneficial and harmful properties of foods and plants . It explains the six essential elements for well-being :
-Tacuinum Sanitatis says that illnesses result from imbalance of these elements.
-https://simple.wikipedia.org/wiki/Thirst
-Thirst is the need to drink water or some other liquid . People can survive quite a while without food, but without something to drink they die very quickly. See dehydration .
+https://simple.wikipedia.org/wiki/Mental_health_related_to_COVID-19
+The COVID-19 pandemic has effected the mental health of African Americans . There has been a increase in the African American suicide rate since the COVID-19 pandemic . [1] More African Americans have commit suicide than whites during the pandemic. [2]
 
-https://simple.wikipedia.org/wiki/Vector_(biology)
-A vector in biology is an animal on or in which a small living thing gets transported . The vector gets no benefit and sometimes loses fitness by the arrangement.
-The term is most used for the transport of parasites and agents of disease . So, deadly diseases, such as malaria and dengue fever , are carried by some mosquitoes .
-The study of vectors gives us knowledge about the life cycle of parasitic diseases, and this helps us control those diseases.
-https://simple.wikipedia.org/wiki/Veterinary_medicine
-Veterinary medicine is a branch of medicine that deals with the health of animals . It is the study and practice of preventing, diagnosing and treating disease and injuries in animals. Veterinary medicine covers all species of animals, including both domesticated animals and wild animals.
-People who study and practice veterinary medicine professionally are called veterinarians (often known as "vets").
-Veterinary science tries to help human health by monitoring and controlling zoonotic diseases ( infectious diseases transmitted from animals to humans).
+https://simple.wikipedia.org/wiki/Misinformation_related_to_the_COVID-19_pandemic
+The pandemic of the coronavirus disease 2019 has caused a large number of conspiracy theories and misinformation about where the pandemic started, how serious it is and the prevention, diagnosis, and treatment. [1] [2] [3]
+According to the World Health Organization , the pandemic was also an infodemic , with misinformation spreading like disease. [2] This was because social media let information spread quickly, because celebrities sometimes repeated conspiracy theories, and because many people were locked down at home without much else to listen to.  When doctors or government officials went on television to say these conspiracy theories were wrong, that only made people think the conspiracy theories were important enough for doctors and officials to talk about. [4] One group of scientists said governments could use conspiracy theories to distract people from real problems. [5]
+Fake information has been spread through social media, [6] text messages, [7] and mass media , [8] including the state media of countries such as China, [9] [10] Russia, [11] [12] Iran, [13] and Turkmenistan. [2] [14]
+It has been spread by celebrities, politicians [15] [16] (including leaders in countries such as the United States, [17] [18] Iran, [19] and Brazil [20] ), and other important public figures. [21] Commercial scams have claimed to offer at-home tests and "miracle" cures. [22] [23]
 
-https://simple.wikipedia.org/wiki/ViSalus
-ViSalus is a health and fitness products company that sells weight-management products, energy drinks, and nutritional supplements. [1] [2] The company is headquartered in Los Angeles, CA and Troy, MI and is majority-owned by Blyth, Inc. [2] [3] ViSalus' Chief Marketing Officer is Blake Mallen and Ryan Blair is the Chief Executive Officer. [3] [4]
-In 2005, Blake Mallen, Ryan Blair, and Miamian Nick Sarnicola founded ViSalus. [1] [3] In 2008, Blyth, Inc. purchased a stake in the company and increased its ownership to almost seventy-five percent. [1] In 2013, the company expanded to the United Kingdom , with an office in Guilford. [4] Ros Simmons was appointed as Managing Director of ViSalus for the United Kingdom. [4]
-ViSalus is best known for its Vi 90-Day Challenge, a health challenge for customers. [1] [2] [4] ViSalus also markets products including NEURO, Vi-Net, Vi-Net Mobile, and Vi-Shape Nutritional Shake Mix. [2] The company sells its products in the United States , Canada , and the United Kingdom. [1] [3] ViSalus uses direct marketing and employs 92,000 promoters. [1] [2] In 2012, the Miami Herald reported that Hulk Hogan and Alfonso Ribeiro endorsed ViSalus products. [1]
-https://simple.wikipedia.org/wiki/Weight_loss
-Weight loss is when a person weighs less than before. A person can lose weight by running , swimming or doing any other activity. Also, a person might eat a healthier diet to lose weight. There are many diet and exercises programs available to lose weight. Many people lose weight when they eat less sugar and more vegetables , fruits and lean meat .
-In many countries weight loss is caused by sociological pressure mostly on woman to have slim and fit figure.
-Unintentional weight loss is when a person loses weight without trying. It can be a symptom of some types of cancer . [2] Stress can cause unintentional weight loss. [3] Stress can come from divorce , changing jobs or over the loss of a loved one. [3] Once the stress is removed and the person feels happier again, the weight may return to normal. [3] Depression may also cause weight loss. Eating disorders such as anorexia or bulimia can cause significant weight loss. [3] These disorders usually require the help of health care professionals . [3]
-Getting enough sleep helps to avoid gaining excess weight. [4] Over time, getting more sleep can help a person to lose weight. [4] The main reason is not getting enough sleep leaves a person tired during the day and prone to eating more food. [4] Getting enough sleep helps in maintaining healthy eating habits.
-https://simple.wikipedia.org/wiki/Yo-yo_effect
-The Yo-yo effect means people quickly gaining weight after a diet . Other words for this activity are yo-yo dieting or weight cycling . People's weight can move down and back up like a yo-yo when they follow several diets one after another. A person's weight after the diet is often higher than it was before dieting.
-The steps to the weight cycle are normal eating, weight gain, diet, metabolism slow-down, and end of the diet. But they repeat again and that’s the Yo-Yo effect. For example, Sherman Morrison talks about someone on the website healevate.com, saying, “In the 1990’s she got up to 237 pounds, dropped it back down to 160 in the early 2000’s, but then crept back up over 200. Recently, however, she shed 30 pounds using Weight Watchers.” Which means she first gained weight, then she lost weight, and finally she gained it back. Basically, Morrison is describing that the Yo-Yo effect is gaining and losing weight over and over again. [1]
-The body needs less energy after losing weight on a diet. People have less fatty tissue and often less muscle after the diet. Muscle tissue needs more energy than fatty tissue. Reducing the amount of muscle tissue therefore reduces the need for energy. Also, limit the number of calories people take in. At some point, a dieter's body will change the way it uses energy if there are less calories to burn. The body does this to make sure it survives when less food is available. These changes in the body cause people to gain weight rapidly when they stop dieting and return to their old eating habits.
-People can avoid the yo-yo effect by changing their diet. If a diet works without the body switching to a more efficient way of using calories, there will be no yo-yo effect. A diet should change the dieter's eating habits for a long time. New eating habits should not give the body more energy than it needs. At the end of the diet, it also makes sense to raise the number of calories someone eats slowly. Exercise and sports can increase the amount of calories burned by the body rather than turned into fat.
+https://simple.wikipedia.org/wiki/Operation_Moonshot
+Operation Moonshot is a programme by the UK government to allow many people in England to be tested for COVID-19 as a way to allow large gatherings of people to happen there while maintaining control over the virus. According to the British Medical Journal , the programme aims to perform 10 million tests per day by 2021.
+People are worried about it because, as a leaked government document says, it is thought it may cost £100bn, which is about three-quarters of what the NHS England costs every year. Statisticians say because any test can have inaccuracies, mass testing at this scale might cause hundreds of thousands of false positives a day, resulting in very large numbers of people being told they are infected when they are not infected. [1]
+
+https://simple.wikipedia.org/wiki/Pfizer%E2%80%93BioNTech_COVID-19_vaccine
+Pfizer–BioNTech COVID-19 vaccine is a COVID-19 vaccine , developed by BioNTech , Pfizer and Fosun Pharmaceutical.
+The vaccine is given by injection . It is an RNA vaccine made of nucleoside -modified mRNA which is meant to create spike protein of SARS-CoV-2 . [1]
+
+https://simple.wikipedia.org/wiki/Remdesivir
+Remdesivir is a broad-spectrum antiviral medication created by the biopharmaceutical company Gilead Sciences . [1] It was designed to treat Ebola .
+As of 2020, remdesivir is being tested as a specific treatment for COVID-19 . It is being used for the sickest of patients during the pandemic . [2] It may shorten the time it takes to recover from the infection. [3] Treatment is given by injection into a vein . [4] [5]
+On May 1, the United States Food and Drug Administration gave doctors permission to use remdesivir on patients with COVID-19.  Ordinarily, the FDA would test remdesivir first to see if it worked on patients with COVID-19, but because of the COVID-19 pandemic, they told doctors they could start using the drug before the tests were finished.
+In October 2020, the National Institutes of Health told the world the results of its tests: They studied 11,000 people and found that remdesivir did not help keep COVID-19 patients alive.  Gilead and some scientists said the results of the tests might not be correct. [6]
+
+https://simple.wikipedia.org/wiki/Socio-economic_impact_of_the_COVID-19_pandemic
+The COVID-19 pandemic has caused a larger effect more than the disease itself. As the SARS-CoV-2 virus has spread around the globe, many people have begun to think about the economic effects such as the decreased business and unemployment. [1] The pandemic caused the largest global recession in history , with more than a third of the global population at the time being placed on lockdown . [2]
+Supply shortages were expected to affect a number of sectors due to panic buying , increased usage of goods to during the pandemic, and people raising up prices on needed products such as masks, toilet paper, plastic gloves and hand sanitizer . [3] Reports of lack of food or groceries were said. [4] [5] [6] The pandemic also caused many social events to be pushed back such as concert delays and movie release dates. Many movie theaters are being put out of business.
+There was an increase in gleaning , meaning people going to farms to pick up food plants left over on the ground after a harvest.  Because restaurants and other food businesses canceled their orders, farmers had more extra crops than usual.  People formed new organizations to find farmers with extra food, organize people to collect it, and transport it to food banks and other places where people could get to it. [7]
+Global stock markets fell on 24 February 2020 due to a significant rise in the number of COVID-19 cases outside mainland China. [8] [9] By 28 February 2020, stock markets worldwide saw their largest single-week declines since the 2008 financial crisis . [10] [11] [12] Global stock markets crashed in March 2020 . [13]
+
+https://simple.wikipedia.org/wiki/Stay-at-home_order
+A stay-at-home order (North America) or a movement control order (Southeast Asia) is an order from a government to lower/end movements of a population as a mass quarantine move for stopping an epidemic , or pandemic . This is done by ordering residents to stay home except for essential tasks or to work in essential businesses.
+In many cases, outdoor activities are allowed. Nonessential businesses are either closed or made to working from home. [1]
+In some regions, it has added a curfew [2] or called a shelter-in-place order , [3] but it is not to be confused with a shelter in place situation. [4]
+Similar measures have been used around the world, but the term lockdown is used instead. [5] [6]
+
+https://simple.wikipedia.org/wiki/Together_at_Home
+Together at Home (also known as One World: Together at Home ) was a virtual concert series organised by Global Citizen and curated by singer Lady Gaga , in support of the World Health Organization .
+
+
+https://simple.wikipedia.org/wiki/Variant_of_Concern_202012/01
+The first Variant Under Investigation in December 2020 ( VUI – 202012/01 ), [1] [a] also known as B.1.1.7 , [4] is a mutation of SARS-CoV-2 , the virus that causes COVID-19 .
+It was first detected in the United Kingdom in October 2020, [6] and it quickly began to spread by mid-December. 
+At the moment, [ when? ] scientists know that this variant can transmit faster than other SARS-CoV-2 variants. [7]
+
+https://simple.wikipedia.org/wiki/Variants_of_SARS-CoV-2
+
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the virus that causes coronavirus disease 2019 (COVID-19), has a lot of variants. Some of them are important because of increased transmission and vaccines being less effective on them. [1] [2] This article discusses relevant variants of SARS-CoV-2 and mutations in these variants.
+The variant WIV04/2019 is most closely related to the original virus when it began infecting humans. [3]
+There are a lot of lineages of SARS-CoV-2. [4] Lineages are variants that are genetically the same.
+
+https://simple.wikipedia.org/wiki/White_House_Coronavirus_Task_Force
+The White House Coronavirus Task Force was a United States Department of State task force that focuses on the spread and limiting of coronavirus disease 2019 (COVID-19). [1] The task force was created on January 29, 2020. [2]
+On February 26, 2020, U.S. Vice President Mike Pence was named to chair the task force, and Deborah Birx was named the response coordinator. [3] Other members have been added since the initial appointments. [4]
+
+
+
+https://simple.wikipedia.org/wiki/White_House_COVID-19_outbreak
+In September and October 2020, multiple people at the White House tested positive for SARS-CoV-2 , the virus that causes COVID-19 .
+On September 16, it was reported that at least one unnamed staffer had tested positive. [2]
+On October 1, President Donald Trump , his wife Melania Trump , press advisor Hope Hicks , presidential campaign manager Bill Stepien , and former White House counselor Kellyanne Conway tested positive for the coronavirus. [3] [4] [5] [6] Claudia Conway, the daughter of Kellyanne Conway, announced on Oct 4 that she had tested positive as well. [7] On October 5, White House Press Secretary Kayleigh McEnany announced she had also tested positive. [8]
+Trump tested positive days after the first presidential debate against Joe Biden in Cleveland, Ohio . Around eleven people tested positive who worked at the debates in Cleveland. [9] Some of Trump's personal aides who prepared him for the debates also tested positive. [10]
+
+https://simple.wikipedia.org/wiki/Wuhan_Institute_of_Virology
+The Wuhan Institute of Virology, Chinese Academy of Sciences ( WIV) is a research institute. It was designed to study virology . It is run by the Chinese Academy of Sciences (CAS).  The institute is in Jiangxia District, Wuhan , Hubei . It opened China's first biosafety level 4 (BSL–4) laboratory in 2015. [1]
+In January 2020, conspiracy theories spread which said that the the COVID-19 pandemic came from a virus made by the WIV. But scientific evidence says that the virus is natural. [2] [3] [4] [5] [6] One story in the Washington Post said that US State Department had raised safety concerns about WIV's research on bat coronaviruses in 2018. [7] In April 2020, U.S. intelligence officials looked into reports the virus may have started by an accident by WIV scientists studying bats. [8] [9] [10] [11]
+Experts do not believe the virus escaped from the institute. [12] [13] One expert said that up to seven million people in Southeast Asia are infected each year with bat coronaviruses. He said there are probably only about six people who work with the viruses at the institute.  It does not make sense that virus came from one of these of people compared with the millions of other people affected by bats. The staff at the Wuhan Institute of Virology were trained at US labs and follow high safety standards. The evidence shows that this is not a laboratory accident.
+The WIV started in 1956 as the Wuhan Microbiology Laboratory under the Chinese Academy of Sciences (CAS). In 1961, it became the South China Institute of Microbiology, and in 1962 was renamed Wuhan Microbiology Institute. In June 1978 it was named Wuhan Institute of Virology. [14]
