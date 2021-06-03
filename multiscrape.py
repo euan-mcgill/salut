@@ -25,32 +25,24 @@ for link in soup.find_all('a'):
         simpends.append("https://simple.wikipedia.org"+redirect)
         englishends.append("https://en.wikipedia.org"+redirect)
 
-# with loop to write directly to file?
-
-for link in simpends: # change to englishends for en wikipedia
-    url = link
-    html = urlopen(url)
-    soup = BeautifulSoup(html, 'html.parser')
-    print(link) # for URLs above each article
-    for text in soup.find_all('p', limit=4):
-        article = text.get_text(' ',strip=True)
-        print(article)
-
-# for link in englishends: # change to simpends for simp wikipedia
+# for link in simpends: # change to englishends for en wikipedia
 #     url = link
-#     try:
-#         html = urlopen(url)
-#     except:
-#         pass
+#     html = urlopen(url)
 #     soup = BeautifulSoup(html, 'html.parser')
 #     print(link) # for URLs above each article
-#     for text in soup.find_all('p', limit=3):
+#     for text in soup.find_all('p', limit=4):
 #         article = text.get_text(' ',strip=True)
 #         print(article)
 
-'''
-English articles tend to be around 7x longer than Simple English
-ones. Maybe we could just grab the first paragraph of the English
-Wiki pages if the coverage tends to be the same as the whole simple
-Wiki entry for a given subject
-'''
+for link in englishends: # change to simpends for simp wikipedia
+    url = link
+    try:
+        html = urlopen(url)
+    except:
+        pass
+    soup = BeautifulSoup(html, 'html.parser')
+    print(link) # for URLs above each article
+    for text in soup.find_all('p', limit=3):
+        article = text.get_text(' ',strip=True)
+        print(article)
+
