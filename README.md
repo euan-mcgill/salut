@@ -12,14 +12,30 @@
     `wikisc.py` (WIP) Arranged into functions, should handle input of a base article or categories with flags to that effect.
 
 ## Corpus files
-| Domain   | Type | Simple-words | English-words |
-|----------|------|--------------|---------------|
-| Covid    | AL   |        | 209     |
-| Health   | AL   |        | 258     |
-| Stubs    | AL   |        | 785     |
-| Medicine | AL   |        |         |
-| Pain     | AL   |        |         |
-| Symptoms | AL   |        |         |
+| Domain        | Type | Simple-words | English-words |
+|---------------|------|--------------|---------------|
+| Full          | AL   | 52265        | 78827         |
+| Full Filtered | A    |              |               |
+| Covid^        | A    |  9405        | 13079         |
+| Stubs^        | A    | 19584        | 38944         |
+| Medicine^     | A    | 13775        | 22834         |
+| Pain^         | A    |  1151        |  2433         |
+| Symptoms^     | A    |  5878        | 10446         |
+
+## Corpus filtering
+| Full Corpus     | Semantic Similarity filter per utt           |
+|                 | >0       |>2.35**      | >2.5      | >3      |
+|-----------------|----------|-------------|-----------|---------|
+| Mean similarity | 2.85     | 3.21        | 3.25      | 3.50    |
+| N sentences     | 478      | 375         | 361       | 231     |
+| N words         | 132k     | 112k        | 108k      | 69k     |
+| % of original   | 100%     | 85.0%       | 82.1%     | 52.3%   |
+
+### Key to corpus types
+    A = Aligned, AL= Aligned and URLs*, AS= Aligned and Scores*, L = Labelled (monolingual)
+    * -480 for accurate word count
+    ** 2.35 is the lowest similarity score where the English equivalent article isn't a blank article
+    ^ Included in the "full" corpora
 
 ## Corpora
-    `parallel-[labelled-]corpus-health.tsv`
+    `./wikipedia/parallel-[labelled-]corpus-health.tsv`: 
